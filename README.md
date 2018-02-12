@@ -6,7 +6,7 @@ A few Twitter Bots using Tweepy
 * [Tweepy](http://www.tweepy.org/) - Tweepy: An easy-to-use Python library for accessing the Twitter API
 * [PIL](http://www.pythonware.com/products/pil/) - Python Imaging Library
 
-Usage
+### Usage
 * Create a Twitter App
 * Go to apps.twitter.com and click on "Create New App" button
 * On "Keys and Access Tokens" tab click on "Create my access token"
@@ -17,4 +17,6 @@ These bots we will use Tweepy, install with
 # pip install tweepy
 # pip install Pillow
 ```
+
+
 
